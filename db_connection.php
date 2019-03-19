@@ -4,7 +4,7 @@
   $servername = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "aitc_backend";
+  $dbname = "aitc";
 
   $conn = mysqli_connect($servername, $username, $password);
   $find_db = mysqli_select_db($conn, $dbname);

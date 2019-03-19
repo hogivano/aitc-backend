@@ -26,6 +26,19 @@
                 <label for="smFormGroupInput" class="col-sm-2 col-form-label col-form-label-sm">Deskripsi</label>
                 <div class="col-sm-10">
                     <textarea name="deskripsi" rows="8" cols="80"></textarea>
+                    <select class="" name="">
+                        <option value="opt">
+                            Test
+                        </option>
+                        <option value="opt">
+                            Testing
+                        </option>
+                        <option value="opt">
+                            Tingting
+                        </option>
+                    </select>
+                    <input type="radio" name="radioku" value="Radioku"> Radioku
+                    <input type="radio" name="radiomu" value="Radiomu"> Radiomu
                 </div>
             </div>
             <div class="form-group row">

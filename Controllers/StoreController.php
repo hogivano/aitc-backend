@@ -1,6 +1,6 @@
 <?php
     include '../Models/Artikel.php';
-
+    // echo 'testing';
     $title = $_POST['title'];
     $deskripsi = $_POST['deskripsi'];
 
